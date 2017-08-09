@@ -1,0 +1,164 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Raizlabs.DBFlow:dbflow:4.0.3] /Users/labadmin/.android/build-cache/3141ab8053adaaf74e33767bf33e2440713af561/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.codepath.libraries:android-oauth-handler:1.2.5] /Users/labadmin/.android/build-cache/c715ec118fe738f9f75c15170af7b9b3d1f21318/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/labadmin/.android/build-cache/bb6bd417d83c3cbaee53195ae89cd8a9b6f9a754/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] /Users/labadmin/.android/build-cache/9478bd054b230c185d940032e08f73b11e7fed80/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/labadmin/.android/build-cache/db14ae11c4ec0e079f00cd7fee17902a323e874c/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/labadmin/.android/build-cache/0cd8d241f76f00943e426de6f3ef408daf632d91/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/labadmin/.android/build-cache/8534efd7a7e1295c80e7425010baccb83d34f690/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/labadmin/.android/build-cache/9cf79373d0ec4922d6f17a61be91c52d0caa02eb/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/labadmin/.android/build-cache/588a83435430c93ae13cfbd09388a4500c4876e9/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /Users/labadmin/.android/build-cache/42d25c663c9f8f53365a2adc104ecec71c37e26a/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/labadmin/.android/build-cache/1a321d3c6432ed1a0baf4bcd03122244d8d41886/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/labadmin/.android/build-cache/ae72f18386af7a81c027f1884327048ada06a4a9/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/labadmin/.android/build-cache/fb4fa4efcfc3f887bc02624b411ee8c65b4cd6be/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/labadmin/.android/build-cache/d8d88723ef103fc1b58df3bab0c6db1c4c2443eb/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/labadmin/.android/build-cache/8be53ec4425d98f4b6f978a7848750d6d70b423f/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/labadmin/.android/build-cache/9478bd054b230c185d940032e08f73b11e7fed80/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:13:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:14:22-77
+application
+ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:16:5-54:19
+MERGED from [com.github.Raizlabs.DBFlow:dbflow:4.0.3] /Users/labadmin/.android/build-cache/3141ab8053adaaf74e33767bf33e2440713af561/output/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/labadmin/.android/build-cache/bb6bd417d83c3cbaee53195ae89cd8a9b6f9a754/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/labadmin/.android/build-cache/9478bd054b230c185d940032e08f73b11e7fed80/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/labadmin/.android/build-cache/db14ae11c4ec0e079f00cd7fee17902a323e874c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/labadmin/.android/build-cache/0cd8d241f76f00943e426de6f3ef408daf632d91/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/labadmin/.android/build-cache/8534efd7a7e1295c80e7425010baccb83d34f690/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/labadmin/.android/build-cache/588a83435430c93ae13cfbd09388a4500c4876e9/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/labadmin/.android/build-cache/42d25c663c9f8f53365a2adc104ecec71c37e26a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/labadmin/.android/build-cache/1a321d3c6432ed1a0baf4bcd03122244d8d41886/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/labadmin/.android/build-cache/ae72f18386af7a81c027f1884327048ada06a4a9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/labadmin/.android/build-cache/fb4fa4efcfc3f887bc02624b411ee8c65b4cd6be/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/labadmin/.android/build-cache/d8d88723ef103fc1b58df3bab0c6db1c4c2443eb/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/labadmin/.android/build-cache/8be53ec4425d98f4b6f978a7848750d6d70b423f/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:20:9-41
+	android:allowBackup
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:19:9-45
+	android:theme
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:21:9-40
+	android:name
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:17:9-43
+meta-data#AA_DB_NAME
+ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:22:9-24:45
+	android:value
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:24:13-42
+	android:name
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:23:13-38
+meta-data#AA_DB_VERSION
+ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:25:9-27:33
+	android:value
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:27:13-30
+	android:name
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:26:13-41
+activity#com.codepath.apps.mysimpletweets.LoginActivity
+ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:29:9-48:20
+	android:label
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:31:13-45
+	android:theme
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:32:13-44
+	android:name
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:30:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:36:27-74
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:38:13-47:29
+action#android.intent.action.VIEW
+ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:39:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:41:17-76
+	android:name
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:41:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:42:17-78
+	android:name
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:42:27-75
+data
+ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:44:17-46:46
+	android:host
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:45:21-50
+	android:scheme
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:46:21-43
+activity#com.codepath.apps.mysimpletweets.TimelineActivity
+ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:49:9-52:59
+	android:label
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:51:13-60
+	android:theme
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:52:13-56
+	android:name
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:50:13-45
+activity#com.codepath.apps.mysimpletweets.ComposeActivity
+ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:53:9-62
+	android:name
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/src/main/AndroidManifest.xml:53:19-50
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/labadmin/.android/build-cache/9478bd054b230c185d940032e08f73b11e7fed80/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/labadmin/.android/build-cache/db14ae11c4ec0e079f00cd7fee17902a323e874c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/labadmin/.android/build-cache/0cd8d241f76f00943e426de6f3ef408daf632d91/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/labadmin/.android/build-cache/8534efd7a7e1295c80e7425010baccb83d34f690/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/labadmin/.android/build-cache/9cf79373d0ec4922d6f17a61be91c52d0caa02eb/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/labadmin/.android/build-cache/588a83435430c93ae13cfbd09388a4500c4876e9/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/labadmin/.android/build-cache/42d25c663c9f8f53365a2adc104ecec71c37e26a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/labadmin/.android/build-cache/1a321d3c6432ed1a0baf4bcd03122244d8d41886/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/labadmin/.android/build-cache/ae72f18386af7a81c027f1884327048ada06a4a9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/labadmin/.android/build-cache/fb4fa4efcfc3f887bc02624b411ee8c65b4cd6be/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/labadmin/.android/build-cache/d8d88723ef103fc1b58df3bab0c6db1c4c2443eb/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/labadmin/.android/build-cache/8be53ec4425d98f4b6f978a7848750d6d70b423f/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/labadmin/.android/build-cache/9478bd054b230c185d940032e08f73b11e7fed80/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/labadmin/.android/build-cache/9478bd054b230c185d940032e08f73b11e7fed80/output/AndroidManifest.xml:26:9-47

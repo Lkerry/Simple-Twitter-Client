@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/labadmin/.android/build-cache/db14ae11c4ec0e079f00cd7fee17902a323e874c/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/labadmin/.android/build-cache/db14ae11c4ec0e079f00cd7fee17902a323e874c/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

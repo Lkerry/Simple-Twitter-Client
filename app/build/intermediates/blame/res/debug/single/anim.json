@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/labadmin/.android/build-cache/9478bd054b230c185d940032e08f73b11e7fed80/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/labadmin/.android/build-cache/db14ae11c4ec0e079f00cd7fee17902a323e874c/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/labadmin/.android/build-cache/db14ae11c4ec0e079f00cd7fee17902a323e874c/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/labadmin/.android/build-cache/db14ae11c4ec0e079f00cd7fee17902a323e874c/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/labadmin/.android/build-cache/9478bd054b230c185d940032e08f73b11e7fed80/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/labadmin/.android/build-cache/db14ae11c4ec0e079f00cd7fee17902a323e874c/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/labadmin/.android/build-cache/db14ae11c4ec0e079f00cd7fee17902a323e874c/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/labadmin/.android/build-cache/db14ae11c4ec0e079f00cd7fee17902a323e874c/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/labadmin/.android/build-cache/db14ae11c4ec0e079f00cd7fee17902a323e874c/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/labadmin/.android/build-cache/db14ae11c4ec0e079f00cd7fee17902a323e874c/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/labadmin/.android/build-cache/9478bd054b230c185d940032e08f73b11e7fed80/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/labadmin/.android/build-cache/db14ae11c4ec0e079f00cd7fee17902a323e874c/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/labadmin/.android/build-cache/9478bd054b230c185d940032e08f73b11e7fed80/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/labadmin/.android/build-cache/9478bd054b230c185d940032e08f73b11e7fed80/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/labadmin/.android/build-cache/db14ae11c4ec0e079f00cd7fee17902a323e874c/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/labadmin/.android/build-cache/9478bd054b230c185d940032e08f73b11e7fed80/output/res/anim/design_bottom_sheet_slide_in.xml"
+    }
+]

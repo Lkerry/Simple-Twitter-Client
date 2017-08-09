@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/labadmin/.android/build-cache/1a321d3c6432ed1a0baf4bcd03122244d8d41886/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_796c556101dab62bcf77dcca193d1c5e8980cf65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_064aba0f41683569a0a8f458c323c91121b566c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/labadmin/.gradle/caches/modules-2/files-2.1/com.github.scribejava/scribejava-apis/4.1.1/563959d2d4045e82477ca3231a6dee2d7fe33d5b/scribejava-apis-4.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="563959d2d4045e82477ca3231a6dee2d7fe33d5b">
+        <dex dex="/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/transforms/dex/debug/folders/1000/10/scribejava-apis-4.1.1_bfce72c206b7bf58cc012d2ffa30e3f930248562/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/labadmin/.android/build-cache/c715ec118fe738f9f75c15170af7b9b3d1f21318/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bb3913c0275fd055133de0c7308d9a0c2a87d227">
+        <dex dex="/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4de1006ab6e8b25f5cb8215e9116b8a46378bc4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/labadmin/.android/build-cache/d8d88723ef103fc1b58df3bab0c6db1c4c2443eb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6bd7254826468a01af985e1878518172d92e9a0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/labadmin/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpclient-4.3.6_49811f741f06acda7da5402bfb45b0a5c5a7453f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/labadmin/.android/build-cache/8534efd7a7e1295c80e7425010baccb83d34f690/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1cd7f0fe5298cb511e75008f532e18cf49b5e11e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/labadmin/.android/build-cache/0cd8d241f76f00943e426de6f3ef408daf632d91/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab9c6942dc7484e82d3571039dd43552e9eaf894/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/labadmin/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-async-http-1.4.9_0f92ab80b28015013e6796fe16f7af8c626e81dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/labadmin/.android/build-cache/42d25c663c9f8f53365a2adc104ecec71c37e26a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_805ecc9fe680c70965bcde0fc9db6fbb6f8f89ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/labadmin/.android/build-cache/8be53ec4425d98f4b6f978a7848750d6d70b423f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_14a654b25ee68632c52444815cfdc9d622b45bf3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/labadmin/.android/build-cache/3141ab8053adaaf74e33767bf33e2440713af561/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="315b30f0da612e85c2efabc160cc3f4c43e31364">
+        <dex dex="/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_befac0edcd385525e78f4232f950d6c2361f0827/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/labadmin/.gradle/caches/modules-2/files-2.1/com.github.scribejava/scribejava-core/4.1.1/3608f03fd9a3a881784d5abac2fef685e77686aa/scribejava-core-4.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3608f03fd9a3a881784d5abac2fef685e77686aa">
+        <dex dex="/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/transforms/dex/debug/folders/1000/10/scribejava-core-4.1.1_74394e56b0edf113c276b7effdcc4323a87af312/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/labadmin/.android/build-cache/c715ec118fe738f9f75c15170af7b9b3d1f21318/output/jars/libs/codepath-utils.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ab36837aece02090c706e6a7911e97a45ea1a4ea">
+        <dex dex="/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/transforms/dex/debug/folders/1000/10/codepath-utils_9164b25c1dc883f6cd7aede80f53e9ed18dcba9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/labadmin/.android/build-cache/db14ae11c4ec0e079f00cd7fee17902a323e874c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f0652f223ec3118cd2d2999d451c4fbfe0e5125d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/labadmin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_84b82979aeaa4908bddbd71350b1bcbd857ffae8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/labadmin/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.8.0/9bada650e1afe9c6174ddc0d113c1fce4dc26fe0/glide-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9bada650e1afe9c6174ddc0d113c1fce4dc26fe0">
+        <dex dex="/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.8.0_670269f6500ac98e8d880a47d74e861368dd91ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/labadmin/.android/build-cache/fb4fa4efcfc3f887bc02624b411ee8c65b4cd6be/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b50a10543c829b5e295708444f9beae209d016cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c4b2755870243bb949a201e71084b1e42a7ff440">
+        <dex dex="/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5b7e4c217806697b0045b7dc86b780432bf92089/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/labadmin/.android/build-cache/ae72f18386af7a81c027f1884327048ada06a4a9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7434ef9f2b841abb9d7a2068a6e6ac5005f50fec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/labadmin/.gradle/caches/modules-2/files-2.1/com.github.Raizlabs.DBFlow/dbflow-core/4.0.3/3e6f22633c7903325603e264623619b0af533fc7/dbflow-core-4.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3e6f22633c7903325603e264623619b0af533fc7">
+        <dex dex="/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/transforms/dex/debug/folders/1000/10/dbflow-core-4.0.3_57712d99ebc88c3db0b832174929420876483c2e/classes.dex" />
+    </item>
+
+</items>

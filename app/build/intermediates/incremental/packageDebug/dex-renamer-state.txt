@@ -1,0 +1,7 @@
+#Tue Aug 08 20:55:54 EDT 2017
+base.0=/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_064aba0f41683569a0a8f458c323c91121b566c7
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5b7e4c217806697b0045b7dc86b780432bf92089/classes.dex
+base.1=/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5b7e4c217806697b0045b7dc86b780432bf92089
+file.0=/Users/labadmin/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_064aba0f41683569a0a8f458c323c91121b566c7/classes.dex
